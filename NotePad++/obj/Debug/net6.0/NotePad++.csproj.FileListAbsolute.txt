@@ -1,0 +1,15 @@
+C:\mpt\С#\NotePad++\NotePad++\bin\Debug\net6.0\NotePad++.exe
+C:\mpt\С#\NotePad++\NotePad++\bin\Debug\net6.0\NotePad++.deps.json
+C:\mpt\С#\NotePad++\NotePad++\bin\Debug\net6.0\NotePad++.runtimeconfig.json
+C:\mpt\С#\NotePad++\NotePad++\bin\Debug\net6.0\NotePad++.dll
+C:\mpt\С#\NotePad++\NotePad++\bin\Debug\net6.0\NotePad++.pdb
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\NotePad++.csproj.AssemblyReference.cache
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\NotePad++.GeneratedMSBuildEditorConfig.editorconfig
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\NotePad++.AssemblyInfoInputs.cache
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\NotePad++.AssemblyInfo.cs
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\NotePad++.csproj.CoreCompileInputs.cache
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\NotePad++.dll
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\refint\NotePad++.dll
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\NotePad++.pdb
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\NotePad++.genruntimeconfig.cache
+C:\mpt\С#\NotePad++\NotePad++\obj\Debug\net6.0\ref\NotePad++.dll

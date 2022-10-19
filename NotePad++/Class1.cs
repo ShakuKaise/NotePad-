@@ -10,7 +10,6 @@ namespace NotePad__
     {
         public DateTime date;
         public string name;
-        public string description;
         public string text;
     }
 }
